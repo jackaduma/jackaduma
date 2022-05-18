@@ -6,7 +6,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=jackaduma)
+![](https://github-readme-stats.vercel.app/api?username=jackaduma&show_icons=true)
 
 
 
