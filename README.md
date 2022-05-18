@@ -1,5 +1,5 @@
 
-![MachineLearning](https://img.shields.io/badge/MachineLearning-000?style=for-the-badge&logo=MachineLearning&logoColor=white) &nbsp; ![DeepLearning](https://img.shields.io/badge/DeepLearning-%2300f.svg?style=for-the-badge&logo=DeepLearning&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%2320232a.svg?style=for-the-badge&logo=PyTorch&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MachineLearning](https://img.shields.io/badge/MachineLearning-000?style=for-the-badge&logo=MachineLearning&logoColor=white) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![DeepLearning](https://img.shields.io/badge/DeepLearning-%2300f.svg?style=for-the-badge&logo=DeepLearning&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%2320232a.svg?style=for-the-badge&logo=PyTorch&logoColor=%2361DAFB) &nbsp; ![Tensorflow](https://img.shields.io/badge/Tensorflow-3670A0?style=for-the-badge&logo=Tensorflow&logoColor=ffdd54)
 
 ![](https://github-readme-stats.vercel.app/api?username=jackaduma)
 
