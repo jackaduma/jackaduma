@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jackaduma)
 
 
-![](https://gitwar.herokuapp.com/badge?username=jackaduma&color=green&label=PROFILE+VIEWS)
+![](https://gitwar.herokuapp.com/badge?username=jackaduma&color=green)
 
 <!--
 **jackaduma/jackaduma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
