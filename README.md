@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jackaduma&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackaduma&layout=compact)](https://github.com/jackaduma/jackaduma)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackaduma&layout=compact)
 
 <!--
 **jackaduma/jackaduma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
