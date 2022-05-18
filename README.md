@@ -1,5 +1,5 @@
 
-![Machine-Learning](https://img.shields.io/badge/Machine-Learning-000?style=for-the-badge&logo=Machine-Learning&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MachineLearning](https://img.shields.io/badge/MachineLearning-000?style=for-the-badge&logo=MachineLearning&logoColor=white) &nbsp; ![DeepLearning](https://img.shields.io/badge/DeepLearning-%2300f.svg?style=for-the-badge&logo=DeepLearning&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%2320232a.svg?style=for-the-badge&logo=PyTorch&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![](https://github-readme-stats.vercel.app/api?username=jackaduma)
 
