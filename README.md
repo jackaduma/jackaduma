@@ -11,6 +11,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackaduma&layout=compact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=ChatGLM-LoRA-RLHF-PyTorch)](https://github.com/jackaduma/ChatGLM-LoRA-RLHF-PyTorch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=Vicuna-LoRA-RLHF-PyTorch)](https://github.com/jackaduma/Vicuna-LoRA-RLHF-PyTorch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=Alpaca-LoRA-RLHF-PyTorch)](https://github.com/jackaduma/Alpaca-LoRA-RLHF-PyTorch)
+
 <!--
 **jackaduma/jackaduma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
