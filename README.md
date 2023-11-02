@@ -16,6 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=Alpaca-LoRA-RLHF-PyTorch&show_owner=true)](https://github.com/jackaduma/Alpaca-LoRA-RLHF-PyTorch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=awesome_LLMs_interview_notes&show_owner=true)](https://github.com/jackaduma/awesome_LLMs_interview_notes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=Recurrent-LLM&show_owner=true)](https://github.com/jackaduma/Recurrent-LLM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=awesome_NLP-Interview-Notes&show_owner=true)](https://github.com/jackaduma/awesome_NLP-Interview-Notes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackaduma&repo=LangChain-OpenLLMs&show_owner=true)](https://github.com/jackaduma/LangChain-OpenLLMs)
 
 
